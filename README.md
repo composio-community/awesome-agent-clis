@@ -124,6 +124,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Search & Research
 
 - [Tavily CLI](https://tavily.com) 🤖 - Web search, page extraction, site crawling, and multi-source research for agents. Results are pre-processed for LLM consumption. `--json` on all commands. [`skill`](tavily-cli/SKILL.md)
+- [SimpleFunctions CLI](https://simplefunctions.dev) 🤖 - Real-time prediction market world state, event probabilities, and calibrated uncertainty for AI agents. Distills live Kalshi and Polymarket contracts into structured snapshots; `sf world --delta` emits ~30-token diffs for context-efficient polling. No-auth public read endpoints, MCP server with 54 tools, `nextActions` chains on every response. [`skill`](simplefunctions-cli/SKILL.md)
 
 ### Service Provisioning
 
