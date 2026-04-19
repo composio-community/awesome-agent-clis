@@ -93,6 +93,8 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 ## Contents
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Quickstart](#quickstart-give-your-agent-1000-tools)
 - [How Skills Work](#how-skills-work)
 - [What Makes a CLI Agent-Ready?](#what-makes-a-cli-agent-ready)
