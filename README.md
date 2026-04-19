@@ -227,10 +227,12 @@ Installation, auth, key commands, output modes...
 
 ## Resources
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [CodeRabbit CLI docs](https://docs.coderabbit.ai/cli/overview) - Review local changes, use `cr --prompt-only` for agent workflows, and integrate with Claude Code or Codex
 - [CodeRabbit docs index](https://docs.coderabbit.ai/llms.txt) - Full documentation index for discovering CLI pages, integrations, and command reference
 - [CodeRabbit CLI launch post](https://x.com/JuanPa/status/2037559738955694404?s=20) - Launch post from Juan Pablo
 - ["Building CLIs for agents" by @ericzakariasson](https://x.com/ericzakariasson/status/2036762680401223946) - 384K-view thread on what makes CLIs work for agents: non-interactive flags, useful `--help` with examples, idempotent commands, `--dry-run`, actionable errors, and pipeable output
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Resend CLI announcement](https://resend.com/blog/resend-cli) - "Built for humans and AI agents"
 - [Stripe Projects announcement](https://stripe.com/blog/introducing-stripe-projects) - "Provision and manage services from the CLI"
 - [Composio CLI docs](https://docs.composio.dev/docs/cli) - Search and execute tools across 1000+ apps
