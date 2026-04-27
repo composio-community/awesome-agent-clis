@@ -153,6 +153,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Railway CLI](https://github.com/railwayapp/cli) - Deploy services, manage variables, and provision databases from the terminal. [`skill`](railway-cli/SKILL.md)
 - [AWS CLI](https://github.com/aws/aws-cli) - Manage AWS services. `--output json` for structured output, profile-based auth. [`skill`](aws-cli/SKILL.md)
 - [Google Cloud CLI](https://cloud.google.com/sdk/gcloud) - Manage GCP resources. `--format=json`, service account auth, scriptable. [`skill`](gcloud-cli/SKILL.md)
+- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) - Multi-cluster Kubernetes management via MCP. `--json` output, WebSocket streaming, bridges AI agents to kubeconfig contexts. [`skill`](kc-agent/SKILL.md)
 
 ### Version Control
 
