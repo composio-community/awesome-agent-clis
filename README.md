@@ -137,6 +137,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Sendblue CLI](https://sendblue.co) 🤖 - iMessage integration for agents. [`skill`](sendblue-cli/SKILL.md)
 - [Kapso CLI](https://kapso.ai) 🤖 - WhatsApp messaging from the terminal. [`skill`](kapso-cli/SKILL.md)
 - [Mailcoach CLI](https://mailcoach.app) 🤖 - Email campaigns and transactional email management. [`skill`](mailcoach-cli/SKILL.md)
+- [X Twitter Scraper CLI](https://github.com/Xquik-dev/x-twitter-scraper-cli) - Command line X/Twitter API client for tweet search, profile tweets, follower export, media workflows, monitors, webhooks, and posting automation. Supports API key env auth and `json`, `jsonl`, `yaml`, and raw output formats. [`skill`](x-twitter-scraper-cli/SKILL.md)
 
 ### Payments & Commerce
 
