@@ -1,6 +1,6 @@
 ---
 name: "agenttrace"
-description: "Inspect local AI coding agent sessions from the terminal. Use when an agent needs to summarize Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and related logs for token usage, cost, latency, tool failures, anomalies, diffs, or CI health gates."
+description: "Inspect local AI coding agent sessions from the terminal. Use when an agent needs to summarize Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Aider, Cursor exports, OpenCode, OpenClaw, Kimi CLI, Pi, JSON/JSONL, and related logs for token usage, cost, latency, tool failures, anomalies, diffs, or CI health gates."
 ---
 
 # agenttrace
@@ -45,4 +45,4 @@ agenttrace --overview \
 - Local-first log parsing; no upload required.
 - TUI for human inspection and JSON, Markdown, and HTML outputs for agents and CI.
 - Health thresholds and critical anomaly gates for automated workflows.
-- Supports Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style traces.
+- Supports Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Aider, Cursor exports, Hermes Agent, OpenCode, OpenClaw, Pi, Oh My Pi, Kimi CLI, Copilot-style logs, and generic JSON/JSONL traces.
