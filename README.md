@@ -120,6 +120,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Tool Orchestration
 
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
+- [codex-profile](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profiles. Read-only diagnostics include `status --json`, `doctor --json`, and `path`. [`skill`](codex-profile/SKILL.md)
 
 ### Search & Research
 
