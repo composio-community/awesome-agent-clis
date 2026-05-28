@@ -120,6 +120,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Tool Orchestration
 
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator managing Claude Code, Codex, Antigravity, Copilot, and OpenCode through plan-based lifecycle with verification gates and self-improving memory. [Website](https://tendril.ivy.app)
 
 ### Search & Research
 
