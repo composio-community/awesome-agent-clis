@@ -101,6 +101,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
   - [Search & Research](#search--research)
   - [Service Provisioning](#service-provisioning)
   - [Communication](#communication)
+  - [Finance & Markets](#finance--markets)
   - [Payments & Commerce](#payments--commerce)
   - [Food Delivery](#food-delivery)
   - [Cloud & Infrastructure](#cloud--infrastructure)
@@ -137,6 +138,10 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Sendblue CLI](https://sendblue.co) 🤖 - iMessage integration for agents. [`skill`](sendblue-cli/SKILL.md)
 - [Kapso CLI](https://kapso.ai) 🤖 - WhatsApp messaging from the terminal. [`skill`](kapso-cli/SKILL.md)
 - [Mailcoach CLI](https://mailcoach.app) 🤖 - Email campaigns and transactional email management. [`skill`](mailcoach-cli/SKILL.md)
+
+### Finance & Markets
+
+- [Longbridge Terminal](https://github.com/longbridge/longbridge-terminal) 🤖 - AI-native CLI for Longbridge Securities with real-time quotes, candlestick charts, fundamentals, portfolio P&L, options chain, sector flow, and more. `--format json` on all data commands, non-interactive auth, 125+ agent skills for HK/US/A-share/SG markets. Trilingual (Simplified Chinese / Traditional Chinese / English). [`skill`](longbridge-terminal/SKILL.md)
 
 ### Payments & Commerce
 
