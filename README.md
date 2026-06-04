@@ -120,6 +120,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Tool Orchestration
 
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
+- [Tuning Engines CLI](https://github.com/cerebrixos-org/tuning-engines-cli) 🤖 - Governed AI control plane CLI for orchestration starters, trace/approval workflows, registry sync, policy automation, and OpenAI-compatible inference setup. [`skill`](tuning-engines-cli/SKILL.md)
 
 ### Search & Research
 
