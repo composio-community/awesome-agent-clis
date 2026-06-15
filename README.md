@@ -119,6 +119,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 ### Tool Orchestration
 
+- [SuperCLI](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. One command pattern (`sc <ns> <res> <action>`) for every tool. JSON-by-default output, AI-agent-native discovery, self-describing commands via `sc inspect`. 250KB Zig binary or `npx supercli`.
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
 
 ### Search & Research
