@@ -120,6 +120,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Tool Orchestration
 
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) 🤖 - Call an existing local agent or automation shared by a teammate over a trusted LAN. Supports structured JSON output, expected-capability checks, conversation continuation, environment-variable authentication, and meaningful exit codes. Trusted-LAN Alpha; not for public-internet exposure. [`skill`](open-agent-relay/SKILL.md)
 
 ### Search & Research
 
