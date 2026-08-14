@@ -120,6 +120,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Tool Orchestration
 
 - [Composio CLI](https://docs.composio.dev/docs/cli) 🤖 - Search, authenticate, and execute tools across 1000+ apps. Type-safe code generation, trigger listeners, and structured JSON output. [`skill`](composio-cli/SKILL.md)
+- [SandBase CLI](https://github.com/sandbaseai/cli) 🤖 - Connect coding agents to 2,000+ tools and 200+ AI models through MCP. Structured JSON output, safe configuration ownership, and automatic rollback. [`skill`](sandbase-cli/SKILL.md)
 
 ### Search & Research
 
