@@ -158,6 +158,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 - [GitHub CLI](https://github.com/cli/cli) - Issues, PRs, repos, actions, and code search. `--json` with `--jq` for precise field extraction. [`skill`](github-cli/SKILL.md)
 - [GitLab CLI](https://gitlab.com/gitlab-org/cli) - MRs, issues, pipelines, and CI/CD management. `--output json` flag. [`skill`](gitlab-cli/SKILL.md)
+- [dtrailer](https://github.com/griffin4747/dtrailer) 🤖 - Records decision rationale as structured, lifecycle-tracked git commit trailers (`Decision: PREFIX-N`). Agents check history before proposing something, or record why a change reverses an earlier decision. `--json` on all commands. [`skill`](https://github.com/griffin4747/awesome-agent-clis/blob/master/dtrailer/SKILL.md)
 
 ### Code Quality & Review
 
