@@ -181,6 +181,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Google Workspace CLI (`gws`)](https://github.com/googleworkspace/cli) 🤖 - One CLI for all of Google Workspace. Dynamically built from Google's Discovery Service — when Google adds an API endpoint, `gws` picks it up automatically. Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. 100+ agent skills included, structured JSON output, structured exit codes (0–5), helper commands (`+send`, `+agenda`, `+triage`), and Model Armor response sanitization. 22k+ stars. [`skill`](google-workspace-cli/SKILL.md)
 - [gogcli](https://github.com/steipete/gogcli) 🤖 - Google Suite CLI for Gmail, Calendar, Chat, Drive, Docs, Sheets, Slides, Forms, Contacts, Tasks, Keep, and Admin. JSON output, multiple accounts, OAuth/service-account auth, command allowlist for sandboxed agent runs. 6.5k+ stars. _By [@steipete](https://github.com/steipete)_ [`skill`](gogcli/SKILL.md)
 - [ntn](https://www.npmjs.com/package/ntn) - Notion CLI. Authenticate, manage Workers, interact with the Notion API (`ntn api`), and upload files. Inline request syntax for API calls. _By [@makenotion](https://github.com/makenotion)_ [`skill`](ntn/SKILL.md)
+- [Yardstick CLI](https://yardstick.team) 🤖 - Operate an applicant tracking system from the terminal: jobs, pipelines, candidates, interview plans, scorecards, and hiring emails, with human-approved gates on sensitive writes. [`skill`](yardstick-cli/SKILL.md)
 
 ### Voice & Media
 
