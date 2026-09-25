@@ -123,6 +123,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 ### Search & Research
 
+- [AgentLinkOps CLI](https://github.com/sunlover7/agentlinkops-cli) 🤖 - Check backlinks and record AI-answer citations as dated evidence in a repository ledger, with JSON output and exit codes. [`skill`](agentlinkops-cli/SKILL.md)
 - [Tavily CLI](https://tavily.com) 🤖 - Web search, page extraction, site crawling, and multi-source research for agents. Results are pre-processed for LLM consumption. `--json` on all commands. [`skill`](tavily-cli/SKILL.md)
 
 ### Service Provisioning
