@@ -137,6 +137,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Sendblue CLI](https://sendblue.co) 🤖 - iMessage integration for agents. [`skill`](sendblue-cli/SKILL.md)
 - [Kapso CLI](https://kapso.ai) 🤖 - WhatsApp messaging from the terminal. [`skill`](kapso-cli/SKILL.md)
 - [Mailcoach CLI](https://mailcoach.app) 🤖 - Email campaigns and transactional email management. [`skill`](mailcoach-cli/SKILL.md)
+- [tlgr](https://github.com/tlgrcli/tlgr) 🤖 - Telegram CLI for a personal account over MTProto: read, search and send messages, manage chats, groups, contacts and media, and push events to a webhook from a background daemon. `--json` envelope, stable exit codes, `--enable-commands` allowlist. _By [@tlgrcli](https://github.com/tlgrcli)_ [`skill`](tlgr/SKILL.md)
 
 ### Payments & Commerce
 
