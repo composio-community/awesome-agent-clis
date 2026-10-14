@@ -142,6 +142,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Test webhooks, trigger events, tail API logs, and manage Stripe resources. `--json` flag for structured output. [`skill`](stripe-cli/SKILL.md)
 - [Visa CLI](https://visa.com) 🤖 - AI agents make card-native payments programmatically. Closed beta. [`skill`](visa-cli/SKILL.md)
+- [Peppol CLI](https://github.com/e-invoice-be/peppol-cli) 🤖 - Create, validate, send, and receive e-invoices on the Peppol network through the e-invoice.be Access Point. `--json` on all commands, `PEPPOL_API_KEY` env var auth, documented exit codes. _By [@e-invoice-be](https://github.com/e-invoice-be)_ [`skill`](peppol-cli/SKILL.md)
 
 ### Food Delivery
 
