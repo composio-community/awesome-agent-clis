@@ -124,6 +124,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Search & Research
 
 - [Tavily CLI](https://tavily.com) 🤖 - Web search, page extraction, site crawling, and multi-source research for agents. Results are pre-processed for LLM consumption. `--json` on all commands. [`skill`](tavily-cli/SKILL.md)
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### Service Provisioning
 
