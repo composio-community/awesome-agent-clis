@@ -172,6 +172,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 ### Analytics & Observability
 
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) 🤖 - macOS network diagnostics for failed host/API connections, DNS, Wi-Fi and latency, with JSON output and a stdio MCP server. [`skill`](kilobat-cli/SKILL.md)
 - [PostHog CLI](https://posthog.com) - Query events, manage feature flags, and pull analytics data. [`skill`](posthog-cli/SKILL.md)
 - [Sentry CLI](https://github.com/getsentry/sentry-cli) - Manage releases, debug symbols, source maps, cron monitors, and logs. `--format json` output. [`skill`](sentry-cli/SKILL.md)
 - [Sentry Developer CLI](https://cli.sentry.dev/) 🤖 - Interactive issue management with AI-powered root cause analysis (`sentry issue explain`), step-by-step fix plans, structured JSON output, auto-detects project from `.env`. Built for humans and agents.
