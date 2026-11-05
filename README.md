@@ -124,6 +124,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Search & Research
 
 - [Tavily CLI](https://tavily.com) 🤖 - Web search, page extraction, site crawling, and multi-source research for agents. Results are pre-processed for LLM consumption. `--json` on all commands. [`skill`](tavily-cli/SKILL.md)
+- [Nexscope CLI](https://github.com/nexscope-ai/nexscope-cli) 🤖 - Ecommerce tool discovery, bounded MCP API calls, and offline product comparison reports from the terminal. [`skill`](nexscope-cli/SKILL.md)
 
 ### Service Provisioning
 
