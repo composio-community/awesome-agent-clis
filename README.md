@@ -187,6 +187,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Remotion CLI](https://www.remotion.dev/docs/cli/) - Render videos, audio, and stills programmatically with React. Scriptable via `npx remotion` commands like `studio`, `render`, `compositions`, and `bundle`. [`skill`](remotion-cli/SKILL.md)
 - [ElevenLabs CLI](https://elevenlabs.io) 🤖 - Voice and audio service management from the terminal. [`skill`](elevenlabs-cli/SKILL.md)
 - [gifgrep](https://github.com/steipete/gifgrep) - Search GIFs from Tenor/Giphy via CLI or TUI. Scriptable with `--json`, `--format`, `--max`, plus inline terminal previews, downloads, and still/sheet extraction. _By [@steipete](https://github.com/steipete)_ [`skill`](gifgrep/SKILL.md)
+- [Valmera demo verifier](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/blob/b250a92b926fdcc6f00767b72e414fc6dbe6efa9/docs/REFRESH-PUBLISHED-PRODUCT-DEMOS.md#run-both-checks-on-the-recorded-demo) - Compare a published MP4 to the approved local export and detect a stale file. Returns JSON and distinct exit codes. [`skill`](verify-published-demo/SKILL.md)
 
 ### IoT & Smart Home
 
