@@ -187,6 +187,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Remotion CLI](https://www.remotion.dev/docs/cli/) - Render videos, audio, and stills programmatically with React. Scriptable via `npx remotion` commands like `studio`, `render`, `compositions`, and `bundle`. [`skill`](remotion-cli/SKILL.md)
 - [ElevenLabs CLI](https://elevenlabs.io) 🤖 - Voice and audio service management from the terminal. [`skill`](elevenlabs-cli/SKILL.md)
 - [gifgrep](https://github.com/steipete/gifgrep) - Search GIFs from Tenor/Giphy via CLI or TUI. Scriptable with `--json`, `--format`, `--max`, plus inline terminal previews, downloads, and still/sheet extraction. _By [@steipete](https://github.com/steipete)_ [`skill`](gifgrep/SKILL.md)
+- [Gumlet CLI](https://github.com/gumlet/cli) - Upload and manage videos, playlists, live streams, and image CDN cache purges on Gumlet. JSON output by default, `GUMLET_API_KEY` auth for CI. [`skill`](gumlet-cli/SKILL.md)
 
 ### IoT & Smart Home
 
